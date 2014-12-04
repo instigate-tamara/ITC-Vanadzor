@@ -14,3 +14,14 @@ Homework Dec 3
 
   >  Գրել factorial.py սկրիպտ որը -n հրամանյին տողի flag ով ներմուծված integer թվի համար կհաշվի ֆակտորյալ և կտպի կոնսոլին
       -  https://docs.python.org/2/library/argparse.html
+      
+Homework Dec 4
+--------------
+  Գրել unittest և ծրագիր, որը տրված file-ի պարունակությունը md5 կկոդավաորի։
+
+    unit tests: https://docs.python.org/2/library/unittest.html
+    md5: https://docs.python.org/2/library/md5.html﻿
+
+  Գրել unittest և ծրագիր, որը տրված folder-ի բոլոր  file-երը  կսարքի zip։﻿
+
+    zip: https://docs.python.org/2/library/zipfile.html﻿
